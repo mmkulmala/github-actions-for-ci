@@ -1,3 +1,3 @@
 # Tic Tac Toe Game
 
-Learn GitHub Actions through a fun little game. LUT course
+Learn GitHub Actions through a fun little game. For LUT course
